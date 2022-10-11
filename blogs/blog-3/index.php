@@ -47,6 +47,7 @@
             <li><a class="button" href="https://azuretium.space#skills">Skills</a></li>
             <li><a class="button" href="https://azuretium.space#projects">Projects</a></li>
             <li><a class="button" href="https://azuretium.space/blogs">Blogs</a></li>
+            <li><a class="button" href="https://azuretium.space/showcase">Works</a></li>
             </ul>
           </nav>
 
@@ -55,10 +56,11 @@
           <div class="bar2"></div>
           <div class="bar3"></div>
           <ul class="mobile-menu">
-            <li><a class="button" href="#about">About</a></li>
-            <li><a class="button" href="#skills">Skills</a></li>
-            <li><a class="button" href="#projects">Projects</a></li>
+            <li><a class="button" href="https://azuretium.space#about">About</a></li>
+            <li><a class="button" href="https://azuretium.space#skills">Skills</a></li>
+            <li><a class="button" href="https://azuretium.space#projects">Projects</a></li>
             <li><a class="button" href="https://azuretium.space/blogs">Blogs</a></li>
+            <li><a class="button" href="https://azuretium.space/showcase">Works</a></li>
           </ul>
         </div>
 

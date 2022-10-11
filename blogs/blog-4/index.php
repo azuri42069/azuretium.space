@@ -46,6 +46,7 @@
             <li><a class="button" href="https://azuretium.space#skills">Skills</a></li>
             <li><a class="button" href="https://azuretium.space#projects">Projects</a></li>
             <li><a class="button" href="https://azuretium.space/blogs">Blogs</a></li>
+            <li><a class="button" href="https://azuretium.space/showcase">Works</a></li>
             </ul>
           </nav>
 
@@ -58,6 +59,7 @@
             <li><a class="button" href="https://azuretium.space#skills">Skills</a></li>
             <li><a class="button" href="https://azuretium.space#projects">Projects</a></li>
             <li><a class="button" href="https://azuretium.space/blogs">Blogs</a></li>
+            <li><a class="button" href="https://azuretium.space/showcase">Works</a></li>
           </ul>
         </div>
 
