@@ -5,32 +5,30 @@
   <link rel="icon" type="image/x-icon" href="https://azuretium.space/imgs/favicon.png">
   <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1">
   <meta charset="UTF-8">
-  <meta name="description" content="June 2022 blog">
+  <meta name="description" content="October 2022 blog">
   <meta name="Keywords" content="Azuri portfolio">
   <meta name="robots" content="noindex">
   <link rel="stylesheet" href="../../style/style.css">
-  <title> June 2022 blog </title>
+  <title> October 2022 blog </title>
 
   <!-- meta -->
 <meta name="theme-color" content="#000000">
 <meta property="og:site_name" content="azuretium.space">
-<meta property="og:title" content="June 2022 blog">
+<meta property="og:title" content="October 2022 blog">
 <meta property="og:url" content="https://azuretium.space">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://azuretium.space/imgs/blogs/banners/1.png">
-<meta itemprop="name" content="June 2022 blog">
+<meta property="og:image" content="https://azuretium.space/imgs/blogs/banners/5.png">
+<meta itemprop="name" content="October 2022 blog">
 <meta itemprop="url" content="https://azuretium.space">
-<meta itemprop="thumbnailUrl" content="https://azuretium.space/imgs/blogs/banners/1.png">
-<link rel="image_src" href="https://azuretium.space/imgs/blogs/banners/1.png">
-<meta itemprop="image" content="https://azuretium.space/imgs/blogs/banners/1.png">
+<meta itemprop="thumbnailUrl" content="https://azuretium.space/imgs/blogs/banners/5.png">
+<link rel="image_src" href="https://azuretium.space/imgs/blogs/banners/5.png">
+<meta itemprop="image" content="https://azuretium.space/imgs/blogs/banners/5.png">
 
-<meta name="twitter:title" content="June 2022 blog">
+<meta name="twitter:title" content="October 2022 blog">
 <meta name="twitter:url" content="https://azuretium.space">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://azuretium.space/imgs/blogs/banners/1.png">
-<meta name="description" content="June 2022 blog">
-
-
+<meta name="twitter:image" content="https://azuretium.space/imgs/blogs/banners/5.png">
+<meta name="description" content="October 2022 blog">
  </head>
  <body>
 
@@ -67,69 +65,64 @@
 
 </nav>
 
-<div id="mid3blog">
+<div id="mid3blog-fiv">
   
-    <span class="date1"> Blog 1 </span>   <span class="date"> Date 15/06/2022 10:09 PM</span> 
-    <h1 class="titleblog">First blog</h1> 
-    <p class="blog1">Why did I decide to make this website? Long time ago I had an idea
-      of making a simple website where I would place my works. Where
-      I could write blogs like this just because of boredom.
-      Well, just like I wanted.
+    <span class="date1"> Blog 5 </span>   <span class="date"> Date 31/10/2022 11:00 PM</span> 
+    <h1 class="titleblog">Summary</h1> 
+    <p class="blog1">Not much happened this month. Of the main events is an update of the site, the announcement of 
+        a new map by me.
     </p>       
     
-    <h1 class="titleblog">Development</h1> 
-    <p class="blog1">At the moment I have plans to try to finish a singleplayer mod called "Runaway 17"
-       for HL2 and make a rp map for the city rp project.
+    <h1 class="titleblog">Website</h1> 
+    <p class="blog1">As you may have already noticed, I rebranded the website and my nickname. 
+        There are many reasons for that. But most importantly, I just didn't like my own nickname 
+        "heut". I came up with it randomly, and anything I come up with randomly is probably full of shit. 
+        So it was decided to change the nickname definitively. Including the name of the site, which was derived 
+        from the nickname. All the major changes you see for yourself. 
     </p>   
-
-    <h1 class="titleblog">Runaway 17</h1> 
-    <p class="blog1">This mod is still WIP, most of the locations are not completed, but 
-      there are sketches of them, a lot of sketches and ideas.
-    </p>   
-    <img src="https://azuretium.space/imgs/blogs/forblog1/hospital.jpg" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog1/hospital2.jpg" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog1/hospital3.jpg" class="blogimg">
-    <p class="blog1">Due to the fact that the original idea belonged to a person who can 
-      no longer work on the modification, only I currently have been working 
-      on the mod. 
-    </p>   
-    <img src="https://azuretium.space/imgs/blogs/forblog1/morphy1.jpg" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog1/morphy2.jpg" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog1/morphy3.jpg" class="blogimg">
-    <p class="blog1">Once during development, I even got tired of seeing the default crossbow. 
-      It was changed to a "heroin" or "morphine" crossbow. Going through the story,  
-      the player will have to find him at the very beginning of the game, in a hospital.
+    <img src="https://azuretium.space/imgs/blogs/forblog5/web1.png" class="blogimg">
+    <img src="https://azuretium.space/imgs/blogs/forblog5/web2.png" class="blogimg">
+    <p class="blog1">
+        Also, along with the rebranding, the color correction of the entire website was changed a bit. now it's sick-blue.
+        Most likely in the future I will redesign the website into one single project page, and most of the stuff from it will just disappear.
     </p>
-
-    <h1 class="titleblog">"City rp"</h1> 
-    <p class="blog1">Absolutely secret RP project for a Garry's mod I am not allowed to speak about,
-       as well as to discuss it with other developers. However, I'm allowed to show the map.
-    </p>   
-    <img src="https://azuretium.space/imgs/blogs/forblog1/cummer1.jpg" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog1/cummer2.jpg" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog1/cummer3.jpg" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog1/cummer4.jpg" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog1/cummer5.jpg" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog1/cummer6.jpg" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog1/cummer7top.jpg" class="blogimg"> 
-    <p class="blog1">I showed this map to some people. They said something like
-      cool, so most likely I will create it faster than I will make 
-      a complete singleplayer mod for HL2 with a "morphine crossbow".
-    </p> 
-
-    <h1 class="titleblog">In Real Life</h1> 
-    <p class="blog1">I honestly don't know what I'll be doing in the next 1-2 years. My life is too hectic, 
-      too changeable. In just 1 month I lossed all my friends from Ukraine that I had.
-      I don't know what to do in the current conditions. Due to sanctions I just can't 
-      accept money directly from maps orders. I almost started going on this 
-      "road of a cool developer", I have accepted an order for a large sum of money 
-      for me. But nothing has changed in the end of February!!! I still don't have my money!!! 
-      And I have no outsourced work!! I don't want anyone to be born in "my northern country".
-    </p>   
-    <img src="https://azuretium.space/imgs/blogs/forblog1/cat.jpg" class="blogimg">
-    <p>cat :3</p>
     
-  
+
+    <h1 class="titleblog">Bthdy</h1> 
+    <p class="blog1">Had a really good time with my homies. Nothing serious. Except that I got another year closer to death.</p> 
+    <img src="https://azuretium.space/imgs/blogs/forblog5/leha.jpg" class="blogimg">
+   
+
+    <h1 class="titleblog">Arts</h1> 
+    <p class="blog1">I recently bought a graphics tablet. I can't boast that I am good at drawing. 
+        I'm just starting to get the hang of it. In the meantime, here are my best arts:
+    </p>   
+    <img src="https://azuretium.space/imgs/blogs/forblog5/datlov.jpg" class="blogimg">
+    <img src="https://azuretium.space/imgs/blogs/forblog5/urbanheart.jpg" class="blogimg">
+    
+
+    <h1 class="titleblog">Urban Heart</h1> 
+    <p class="blog1">Once I showed the map for city rp. So, city rp abandoned. But the developments of the map I decided 
+        to use for another project - Urban Heart. So far, I do not want to say much about it. There still have a lot of work 
+        on the lore and atmosphere. You can so far look at the sketches and the art above which I showed earlier.</p>
+
+        <img src="https://azuretium.space/imgs/blogs/forblog5/uh1.jpg" class="blogimg">
+        <img src="https://azuretium.space/imgs/blogs/forblog5/uh2.jpg" class="blogimg">
+        <img src="https://azuretium.space/imgs/blogs/forblog5/uh3.jpg" class="blogimg">
+        <img src="https://azuretium.space/imgs/blogs/forblog5/uh4.jpg" class="blogimg">
+    
+    <h1 class="titleblog">Photos</h1> 
+    <p class="blog1">Since I am too lazy to blog on Telegram, Instagram is officially blocked in my country, and I am too lazy to use VPNs
+        so I'll be posting all of my irl pics here:</p>
+      <img src="https://azuretium.space/imgs/blogs/forblog5/photos1-min.jpg" class="blogimg">
+      <img src="https://azuretium.space/imgs/blogs/forblog5/photos2-min.jpg" class="blogimg">
+      <img src="https://azuretium.space/imgs/blogs/forblog5/photos3-min.jpg" class="blogimg">
+      <img src="https://azuretium.space/imgs/blogs/forblog5/photos4-min.jpg" class="blogimg">
+      <img src="https://azuretium.space/imgs/blogs/forblog5/photos5-min.jpg" class="blogimg">
+      
+    <h1 class="titleblog">Sum up</h1> 
+    <p class="blog1">This month has been very boring. Almost no progress. Well, I'm not an office slave to make some kind of 
+        discovery every day. Happy Halloween, everyone. And have a good day.</p>
 </div>
 
 <div class="bottom">
@@ -168,7 +161,7 @@
 
 
 <!-- scripts -->
-<script src="../../scripts/script2.js"></script>
+<script src="../../scripts/script2.js "></script>
 </body>
  </body>
 </html>

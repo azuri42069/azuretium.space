@@ -256,7 +256,7 @@ body {
 #mid2 {
     position: relative;
     top: 69px;
-    height: 70em;
+    height: 86em;
     width: 777px;
     background-color: #1a1a25;
     color:rgb(255, 255, 255);
@@ -284,7 +284,7 @@ body {
 .blogis {
     display: flex;
     flex-direction: column;
-    height: 59em;
+    height: 75em;
     justify-content: space-between;
     width: 41em;
 }
@@ -311,6 +311,10 @@ body {
 
 .blog:hover {
     background-size: 110%;
+}
+
+.blog-five {
+    background-image: url("https://azuretium.space/imgs/blogs/banners/5.png");
 }
 
 .blog-fourr {
@@ -367,6 +371,20 @@ body {
     position: relative;
     top: 69px;
     height: 551em;
+    width: 777px;
+    background-color: #1a1a25;
+    color:rgb(255, 255, 255);
+    margin: 0 auto;
+    padding: 1%;
+
+    filter: drop-shadow(0 0 0.1rem rgba(0, 0, 0, 0.801));
+    
+}
+
+#mid3blog-fiv {
+    position: relative;
+    top: 69px;
+    height: 511em;
     width: 777px;
     background-color: #1a1a25;
     color:rgb(255, 255, 255);
@@ -624,6 +642,19 @@ h1 {
         
     }
 
+    #mid3blog-fiv {
+        position: relative;
+        top: 69px;
+        height: 777em;
+        width: 97%;
+        color:rgb(255, 255, 255);
+        margin: 0 auto;
+        padding: 1%;
+    
+        filter: drop-shadow(0 0 0.1rem rgba(0, 0, 0, 0.801));
+        
+    }
+
     .vtotoi-text {
         font-size: 12pt;
     }
@@ -770,7 +801,7 @@ h1 {
     #mid2 {
         position: relative;
     top: 69px;
-    height: 70em;
+    height: 81em;
     width: 100%;
     color:rgb(255, 255, 255);
     margin: 0 auto;

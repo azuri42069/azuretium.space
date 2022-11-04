@@ -60,17 +60,17 @@
 <meta property="og:title" content="Front page">
 <meta property="og:url" content="https://azuretium.space">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://azuretium.space/imgs/meta.png">
+<meta property="og:image" content="https://azuretium.space/imgs/meta.jpg">
 <meta itemprop="name" content="Front page">
 <meta itemprop="url" content="https://azuretium.space">
-<meta itemprop="thumbnailUrl" content="https://azuretium.space/imgs/meta.png">
-<link rel="image_src" href="https://azuretium.space/imgs/meta.png">
-<meta itemprop="image" content="https://azuretium.space/imgs/meta.png">
+<meta itemprop="thumbnailUrl" content="https://azuretium.space/imgs/meta.jpg">
+<link rel="image_src" href="https://azuretium.space/imgs/meta.jpg">
+<meta itemprop="image" content="https://azuretium.space/imgs/meta.jpg">
 
 <meta name="twitter:title" content="Front page">
 <meta name="twitter:url" content="https://azuretium.space">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://azuretium.space/imgs/meta.png">
+<meta name="twitter:image" content="https://azuretium.space/imgs/meta.jpg">
 <meta name="description" content="A website where I will publish monthly news about my developments and about my life.">
 
 </head>
@@ -116,7 +116,7 @@
 <section class="toptext">
     <!-- Ria <3 -->
     
-    <img src="https://azuretium.space/imgs/nekoicj.png" class="bigpic"> 
+    <img src="https://azuretium.space/imgs/nekoicj.jpg" class="bigpic"> 
     <div class="texttoptop">
     <h1 class="maksim"><?=$json["response"]["players"][0]["personaname"];?> <?=personaState($json['response']['players'][0]['personastate']);?></h1> 
     <p class="maintext2">Greetings! I'm Maksim, aka Azuri. </p>

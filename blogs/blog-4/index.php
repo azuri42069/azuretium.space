@@ -85,11 +85,11 @@
     <h1 class="titleblog">rp_interval</h1> 
     <p class="blog1">We published after 8 months a new map - <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=2862487762" title="map" target="_blank" class="rn">rp_interval</a>.
     </p> 
-    <img src="https://azuretium.space/imgs/blogs/forblog4/1.png" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog4/2.png" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog4/3.png" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog4/4.png" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog4/5.png" class="blogimg">
+    <img src="https://azuretium.space/imgs/blogs/forblog4/1.jpg" class="blogimg">
+    <img src="https://azuretium.space/imgs/blogs/forblog4/2.jpg" class="blogimg">
+    <img src="https://azuretium.space/imgs/blogs/forblog4/3.jpg" class="blogimg">
+    <img src="https://azuretium.space/imgs/blogs/forblog4/4.jpg" class="blogimg">
+    <img src="https://azuretium.space/imgs/blogs/forblog4/5.jpg" class="blogimg">
 
     <p class="blog1">The main difficulties were in optimizing and adding for RP maps of those locations that were not intended for RP. Engine limits also interfered. But even so, the map was completed and posted in the steam workshop.
     </p> 
@@ -122,9 +122,9 @@
       The only good thing I can say and show is that I started taking various photos/picture.
       I take pictures with my camera. I thought it would be a better camera phone, but it's not. yes it surpasses some
       parameters of the phone's camera, but in terms of clarity and resolution it is inferior very much. Here's what I shot with it (the best):</p>
-      <img src="https://azuretium.space/imgs/blogs/forblog4/omsk.png" class="blogimg">
-      <img src="https://azuretium.space/imgs/blogs/forblog4/omsk2.png" class="blogimg">
-      <img src="https://azuretium.space/imgs/blogs/forblog4/flower.png" class="blogimg">
+      <img src="https://azuretium.space/imgs/blogs/forblog4/omsk.jpg" class="blogimg">
+      <img src="https://azuretium.space/imgs/blogs/forblog4/omsk2.jpg" class="blogimg">
+      <img src="https://azuretium.space/imgs/blogs/forblog4/flower.jpg" class="blogimg">
 
     <h1 class="titleblog">Graffiti</h1> 
     <p class="blog1">Also, I took pictures of various graffiti, which I will probably use for some modifications on Source Engine:</p>

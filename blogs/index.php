@@ -17,17 +17,17 @@
 <meta property="og:title" content="Blog list">
 <meta property="og:url" content="https://azuretium.space">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://azuretium.space/imgs/meta-blogs.png">
+<meta property="og:image" content="https://azuretium.space/imgs/meta-blogs.jpg">
 <meta itemprop="name" content="Blog list">
 <meta itemprop="url" content="https://azuretium.space">
-<meta itemprop="thumbnailUrl" content="https://azuretium.space/imgs/meta-blogs.png">
-<link rel="image_src" href="https://azuretium.space/imgs/meta-blogs.png">
-<meta itemprop="image" content="https://azuretium.space/imgs/meta-blogs.png">
+<meta itemprop="thumbnailUrl" content="https://azuretium.space/imgs/meta-blogs.jpg">
+<link rel="image_src" href="https://azuretium.space/imgs/meta-blogs.jpg">
+<meta itemprop="image" content="https://azuretium.space/imgs/meta-blogs.jpg">
 
 <meta name="twitter:title" content="Blog list">
 <meta name="twitter:url" content="https://azuretium.space">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://azuretium.space/imgs/meta-blogs.png">
+<meta name="twitter:image" content="https://azuretium.space/imgs/meta-blogs.jpg">
 <meta name="description" content="Blogs about development and my life.">
 
 </head>
@@ -69,10 +69,22 @@
 <div id="mid2">
   <div class="center-flex">
  <div class="blogis">
+
+ <a href="https://azuretium.space/blogs/blog-5" title="blog 5">
+    <div class="blog-five blog">
+      <div class="left-text">
+     <h1 class="blog-mini-title">Blog №5</h1>
+     <h1 class="vtotoi-text">urban heart, photos...</h1>
+      </div>
+        <div class="right-text">
+        <h1 class="date-blog-front">31/10/2022</h1>
+        </div>
+    </div></a>
+
   <a href="https://azuretium.space/blogs/blog-4" title="blog 4">
     <div class="blog-fourr blog">
       <div class="left-text">
-     <h1 class="blog-mini-title">Return to blogs</h1>
+     <h1 class="blog-mini-title">Blog №4</h1>
      <h1 class="vtotoi-text">rndevs.online, interval, photos...</h1>
       </div>
         <div class="right-text">
@@ -83,7 +95,7 @@
   <a href="https://azuretium.space/blogs/blog-3" title="blog 3">
   <div class="blog-three blog">
     <div class="left-text">
-   <h1 class="blog-mini-title">August blog</h1>
+   <h1 class="blog-mini-title">Blog №3</h1>
    <h1 class="vtotoi-text">renewed games 4.0, gm_ame release...</h1>
     </div>
       <div class="right-text">
@@ -94,7 +106,7 @@
   <a href="https://azuretium.space/blogs/blog-2" title="blog 2">
     <div class="blog-sec blog">
       <div class="left-text">
-     <h1 class="blog-mini-title">Second blog</h1>
+     <h1 class="blog-mini-title">Blog №2</h1>
      <h1 class="vtotoi-text">neon tokyo map, escapism...</h1>
       </div>
         <div class="right-text">
@@ -105,7 +117,7 @@
     <a href="https://azuretium.space/blogs/blog-1" title="blog 1">
       <div class="blog-first blog">
         <div class="left-text">
-       <h1 class="blog-mini-title">First blog</h1>
+       <h1 class="blog-mini-title">Blog №1</h1>
        <h1 class="vtotoi-text">runaway-17, city rp...</h1>
         </div>
           <div class="right-text">

@@ -82,7 +82,7 @@
       If you are interested - <a href="https://discord.gg/G2DZqNcf6u" title="escapism" target="_blank" class="rn">join</a>. 
 
     </p>  
-    <img src="https://azuretium.space/imgs/blogs/forblog2/escp.png" class="blogimg"> 
+    <img src="https://azuretium.space/imgs/blogs/forblog2/escp.jpg" class="blogimg"> 
  
     <h1 class="titleblog">gm_Escapism</h1> 
     <p class="blog1">In June 23, together with my business friend Andrew 
@@ -110,13 +110,13 @@
       to add something new to it every time. What can you see on the website 
       now after 15/07?
     </p>   
-    <img src="https://azuretium.space/imgs/blogs/forblog2/website.png" class="blogimg"> 
+    <img src="https://azuretium.space/imgs/blogs/forblog2/website.jpg" class="blogimg"> 
     <p class="blog1">Now you can change the language from my broken English to 
       my native Russian! Later I want to add translations into other 
       languages (Japanese or German), but I think for now English is enough. 
       I also changed the adaptation for mobile, at first everything broke to hell. 
     </p> 
-    <img src="https://azuretium.space/imgs/blogs/forblog2/website2.png" class="blogimg"> 
+    <img src="https://azuretium.space/imgs/blogs/forblog2/website2.jpg" class="blogimg"> 
    <p class="blog1">
     I also updated the main page of the site.
     The design and layout of some blocks I took from
@@ -127,8 +127,8 @@
     Unfortunately github pages, as it turned out, it does not support 
     php pages (because they are not static).
    </p> 
-   <img src="https://azuretium.space/imgs/blogs/forblog2/steamapi.png" class="blogimg"> </br>
-   <img src="https://azuretium.space/imgs/blogs/forblog2/steamapi2.png" class="blogimg"> </br>
+   <img src="https://azuretium.space/imgs/blogs/forblog2/steamapi.jpg" class="blogimg"> </br>
+   <img src="https://azuretium.space/imgs/blogs/forblog2/steamapi2.jpg" class="blogimg"> </br>
    <p class="blog1">
     I think in the future I will switch to my domain, special for such a little thing.
    </p>
@@ -166,7 +166,7 @@
        
     </p>    
   
-    <img src="https://azuretium.space/imgs/neko-foka.png" class="blogimg">
+    <img src="https://azuretium.space/imgs/neko-foka.jpg" class="blogimg">
     <p>I have ogniK in captivity</p>
     
   

@@ -17,17 +17,17 @@
 <meta property="og:title" content="Showcase, images, works etc.">
 <meta property="og:url" content="https://azuretium.space">
 <meta property="og:type" content="website">
-<meta property="og:image" content="https://azuretium.space/imgs/meta.png">
+<meta property="og:image" content="https://azuretium.space/imgs/meta.jpg">
 <meta itemprop="name" content="Showcase, images, works etc.">
 <meta itemprop="url" content="https://azuretium.space">
-<meta itemprop="thumbnailUrl" content="https://azuretium.space/imgs/meta.png">
-<link rel="image_src" href="https://azuretium.space/imgs/meta.png">
-<meta itemprop="image" content="https://azuretium.space/imgs/meta.png">
+<meta itemprop="thumbnailUrl" content="https://azuretium.space/imgs/meta.jpg">
+<link rel="image_src" href="https://azuretium.space/imgs/meta.jpg">
+<meta itemprop="image" content="https://azuretium.space/imgs/meta.jpg">
 
 <meta name="twitter:title" content="Showcase, images, works etc.">
 <meta name="twitter:url" content="https://azuretium.space">
 <meta name="twitter:card" content="summary_large_image">
-<meta name="twitter:image" content="https://azuretium.space/imgs/meta.png">
+<meta name="twitter:image" content="https://azuretium.space/imgs/meta.jpg">
 <meta name="description" content="My works.">
 
   </head>

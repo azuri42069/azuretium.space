@@ -89,7 +89,7 @@
     <img src="https://azuretium.space/imgs/blogs/forblog3/ameing3.jpg" class="blogimg">
     <img src="https://azuretium.space/imgs/blogs/forblog3/ameing4.jpg" class="blogimg">
     <img src="https://azuretium.space/imgs/blogs/forblog3/ameing5.jpg" class="blogimg">
-    <img src="https://azuretium.space/imgs/blogs/forblog3/radar_full.png" class="blogimg">
+    <img src="https://azuretium.space/imgs/blogs/forblog3/radar_full.jpg" class="blogimg">
     <p class="blog1">I had to do a lot of things with the file size of map so that it does not 0.5 GB. And yet it still has mistakes after all this. As soon as I get access to my computer, I will try to fix everything.
  
     <h1 class="titleblog">"A little trolling"</h1> 
