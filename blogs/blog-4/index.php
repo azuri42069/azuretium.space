@@ -157,7 +157,7 @@
             <line x1="20" y1="19" x2="16.65" y2="17"></line>
             <line x1="4" y1="7" x2="7.75" y2="9.4"></line>
             <line x1="20" y1="7" x2="16.25" y2="9.4"></line>
-         </svg> Report a issue</a>
+         </svg> Report an issue</a>
     </div>
   <div class="linkss">
       
