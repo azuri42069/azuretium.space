@@ -20,5 +20,6 @@ jobs:
           exclude: |
             **/.git*
             **/.git*/**
+            .github/workflows/ci.yml
             LICENSE
             README.md
