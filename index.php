@@ -1,45 +1,47 @@
 <?php
-    $api_key = "0E8DAF510F0F9840F78A293B3B074E1A";
-    $steamid = "76561198414640282";
+    class AsyncCURLThread {
+		public static function run(string $link): string {
+			$curl = curl_init( $link );
+				curl_setopt($curl, CURLOPT_HTTPHEADER, array('Accept: application/json', 'Content-type: application/json'));
+				curl_setopt($curl, CURLOPT_HEADER, 0);
+				curl_setopt($curl, CURLOPT_HTTPGET, true);
+				curl_setopt($curl, CURLOPT_RETURNTRANSFER, true);
+				curl_setopt($curl, CURLOPT_SSL_VERIFYPEER, false);
+				curl_setopt($curl, CURLOPT_SSL_VERIFYHOST, false);
+				curl_setopt($curl, CURLOPT_SSL_VERIFYSTATUS, false);
+			$response = curl_exec($curl);
+			curl_close($curl);
+			return $response;
+		}
+	}
 
-    $api_url = "http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=$api_key&steamids=$steamid";
+    class SteamWebApiBase {
+		public static function getToken(): string {
+			return '';
+		}
+	}
 
-    $json = json_decode(file_get_contents($api_url), true);
+	class ISteamUserBase {
+		public static function getUser(string $steamid64) {
+			$link = 'https://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=' . SteamWebApiBase::getToken() . '&steamids=' . $steamid64;
 
-    $join_date = date("D, M j, Y", $json["response"]["players"][0]["timecreated"]);
+			$response = AsyncCURLThread::run($link);
 
-    function personaState($state)
-    {
-        if ($state == 1)
-        {
-            return "💻";
-        }
-        elseif ($state == 2)
-        {
-            return "💻";
-        }
-        elseif ($state == 3)
-        {
-            return "💊";
-        }
-        elseif ($state == 4)
-        {
-            return "💤";
-        }
-        elseif ($state == 5)
-        {
-            return "💻";
-        }
-        elseif ($state == 6)
-        {
-            return "💻";
-        }
-        else
-        {
-            return "💎";
-        }
-    }
-						
+			return json_decode($response, true);
+		}
+
+		public static function getAvatar(string $steamid64): string {
+			$response = ISteamUserBase::getUser($steamid64);
+			return $response['response']['players'][0]['avatarfull'];
+		}
+
+		public static function getName(string $steamid64): string {
+			$response = ISteamUserBase::getUser($steamid64);
+			return $response['response']['players'][0]['personaname'];
+		}
+	}
+
+    		
 
 ?>
 <!DOCTYPE html>
@@ -118,7 +120,7 @@
     
     <img src="https://azuretium.space/imgs/nekoicj.jpg" class="bigpic"> 
     <div class="texttoptop">
-    <h1 class="maksim"><?=$json["response"]["players"][0]["personaname"];?> <?=personaState($json['response']['players'][0]['personastate']);?></h1> 
+    <h1 class="maksim"><?php echo ISteamUserBase::getName('76561198414640282') ?></h1> 
     <p class="maintext2">Greetings! I'm Maksim, aka Azuri. </p>
     <p class="maintext2">I am a level designer. I make maps and content for them.</p>
     <p class="maintext2">I currently work in <a href="https://rndevs.online/" title="renewed networks" target="_blank" class="rn">Renewed Networks</a> on Runaway-17 and other stuff. </p>
