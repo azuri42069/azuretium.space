@@ -153,6 +153,7 @@
  
  <!-- scripts -->
  <script src="../../scripts/script2.js"></script>
+ <script src="../../scripts/snowfallscript.js"></script>
 </body>
   </body>
 </html>
