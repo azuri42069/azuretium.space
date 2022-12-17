@@ -1,3 +1,7 @@
+:root {
+    --azurecolor: rgb(119, 162, 235);
+}
+
 ::-webkit-scrollbar {
     width: 15px;
 }
@@ -15,6 +19,11 @@
     font-style: normal;
 
     src: url(../fonts/Aeroport.ttf);
+}
+
+.button:hover {
+    color: var(--azurecolor);
+    transition: 0.2s;
 }
 
 html {
@@ -499,7 +508,7 @@ p.bottext {
 
 a {
     text-decoration: none;
-    color:rgb(141, 169, 218);
+    color: var(--azurecolor);
     transition: 0.1s;
     font-family: Aeroport;
 }
@@ -916,9 +925,6 @@ ul {
     transition: 0.1s;
   }
 
-  ul li:hover {
-    transform: scale(1.2);
-  }
  
   
   #hamburger-icon {
@@ -977,7 +983,7 @@ ul {
     margin-right: 18px;
   }
   
-  @media only screen and (max-width: 600px) {
+  @media only screen and (max-width: 900px) {
     .defolt-menu {
       display: none;
     }
@@ -987,18 +993,21 @@ ul {
     }
   }
 
+  
+
 .nav {
-    width: 100%;
     height: var(--nav-height);
     top: 0;
     left: 0;
     background-color: rgb(33 32 41);
     box-shadow: 0 0 30px rgba(0, 0, 0, 0.2);
-    transition: transform 0.2s;
     display: flex;
     justify-content: space-between;
     align-items: center;
     z-index: 5;
+    padding-left: 15vw;
+    padding-right: 15vw;
+    width: 70vw;
     position: fixed;
 }
 
@@ -1073,7 +1082,14 @@ a.button {
     justify-content: space-between;
 }
 
-@media screen and (max-width: 318px){
+@media screen and (max-width: 355px){
+
+    .nav {
+        padding-left: 0;
+    padding-right: 0;
+    width: 100%;
+    }
+
 #cont {
     display: flex;
     width: 90%;

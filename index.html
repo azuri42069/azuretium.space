@@ -1,45 +1,3 @@
-<?php
-    $api_key = "0E8DAF510F0F9840F78A293B3B074E1A";
-    $steamid = "76561198414640282";
-
-    $api_url = "http://api.steampowered.com/ISteamUser/GetPlayerSummaries/v0002/?key=$api_key&steamids=$steamid";
-
-    $json = json_decode(file_get_contents($api_url), true);
-
-    $join_date = date("D, M j, Y", $json["response"]["players"][0]["timecreated"]);
-
-    function personaState($state)
-    {
-        if ($state == 1)
-        {
-            return "💻";
-        }
-        elseif ($state == 2)
-        {
-            return "💻";
-        }
-        elseif ($state == 3)
-        {
-            return "💊";
-        }
-        elseif ($state == 4)
-        {
-            return "💤";
-        }
-        elseif ($state == 5)
-        {
-            return "💻";
-        }
-        elseif ($state == 6)
-        {
-            return "💻";
-        }
-        else
-        {
-            return "💎";
-        }
-    }
-?>
 <!DOCTYPE html>
 
 <html lang="en" crosspilot> 
@@ -116,10 +74,10 @@
     
     <img src="https://azuretium.space/imgs/nekoicj.jpg" class="bigpic"> 
     <div class="texttoptop">
-    <h1 class="maksim"> <?=$json["response"]["players"][0]["personaname"];?> <?=personaState($json['response']['players'][0]['personastate']);?> </h1> 
-    <p class="maintext2">Greetings! I'm Maksim, aka Azuri. </p>
-    <p class="maintext2">I am a level designer. I make maps and content for them.</p>
-    <p class="maintext2">I currently work in <a href="https://rndevs.online/" title="renewed networks" target="_blank" class="rn">Renewed Networks</a> on Runaway-17 and other stuff. </p>
+    <h1 class="maksim"> Maksym Przyleski</h1> 
+    <p class="maintext2">Greetings! I'm Maksym, aka Azuri. </p>
+    <p class="maintext2">I am a web/game/level designer. I make different web & game stuff. </p>
+    <p class="maintext2">I currently work in <a href="https://rndevs.online/" title="renewed networks" target="_blank" class="rn">Renewed Networks</a> on Urban Heart and other things. </p>
     
     <div class="topbuttons">
         <a href="https://steamcommunity.com/profiles/76561198414640282" title="My steam" target="_blank"> <img src="https://azuretium.space/imgs/steam.png" class="button3"> </a>
@@ -181,11 +139,11 @@
             </div>
         </a>
 
-        <a href="https://rndevs.online/projects/runaway17" target="_blank" class="projectcard"> 
-            <img src="https://azuretium.space/imgs/projectss/ra17.png" class="prjc-image">
+        <a href="https://rndevs.online/projects/uh/" target="_blank" class="projectcard"> 
+            <img src="https://azuretium.space/imgs/projectss/uh.png" class="prjc-image">
             <div class="prjc-texting">
-            <h3 class="prjc">Runaway-17</h3> 
-             <p class="prjc">Singleplayer modification for Half-life 2.</p>
+            <h3 class="prjc">Urban Heart</h3> 
+             <p class="prjc">Singleplayer modification based on Half-life 2.</p>
             </div>
         </a>
 
