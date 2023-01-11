@@ -618,7 +618,7 @@ h1 {
         flex-direction: column;
         height: 63px;
         justify-content: space-between;
-        width: 145px;
+        width: 148px;
         align-items: center;
     }
 
@@ -1107,7 +1107,7 @@ a.button {
     flex-direction: column;
     height: 63px;
     justify-content: space-between;
-    width: 145px;
+    width: 248px;
     align-items: flex-start;
 }
 
